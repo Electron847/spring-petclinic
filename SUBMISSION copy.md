@@ -7,7 +7,7 @@
 
 ```
 
-https://github.com/Electron847/spring-petclinic/blob/master/FiguresHW5/Screen%20Shot%202020-02-26%20at%204.50.49%20PM.png - github repository showing forked from depaulcdm/spring-petclinic
+![Image Screenshot](https://github.com/Electron847/spring-petclinic/blob/master/FiguresHW5/Screen%20Shot%202020-02-26%20at%204.50.49%20PM.png - github repository showing forked from depaulcdm/spring-petclinic)
 
 https://github.com/Electron847/spring-petclinic/blob/master/FiguresHW5/Screen%20Shot%202020-02-26%20at%2011.00.56%20PM.png - manually triggered build
 
