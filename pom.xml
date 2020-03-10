@@ -30,6 +30,7 @@
     <jacoco.version>0.8.5</jacoco.version>
     <nohttp-checkstyle.version>0.0.4.RELEASE</nohttp-checkstyle.version>
     <spring-format.version>0.0.19</spring-format.version>
+    <checkstyle.skip>true</checkstyle.skip>
   </properties>
 
   <dependencies>
@@ -221,7 +222,7 @@
       </plugin>
 
       <!-- Spring Boot Actuator displays build-related information if a git.properties
-        file is present at the classpath -->
+        file is present at the classpath
       <plugin>
         <groupId>pl.project13.maven</groupId>
         <artifactId>git-commit-id-plugin</artifactId>
@@ -240,7 +241,7 @@
           </generateGitPropertiesFilename>
           <failOnNoGitDirectory>false</failOnNoGitDirectory>
         </configuration>
-      </plugin>
+      </plugin> -->
 
       <plugin>
         <groupId>ro.isdc.wro4j</groupId>
